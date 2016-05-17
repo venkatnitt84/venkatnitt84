@@ -1,2 +1,2 @@
 # solrr
-solrr read me
+test read
